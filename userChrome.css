@@ -76,6 +76,11 @@ See the above repository for updates as well as full license text. */
 	align-items: center !important;
 }
 
+#titlebar-buttonbox-container,
+#TabsToolbar .titlebar-buttonbox-container,
+.titlebar-spacer {
+	display: none !important;
+}
 
 /* hide sidebar header */
 #sidebar-box[sidebarcommand='treestyletab_piro_sakura_ne_jp-sidebar-action']
