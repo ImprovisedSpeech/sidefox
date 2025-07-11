@@ -8,7 +8,7 @@ This project is a fork of [SideFox](https://github.com/refact0r/sidefox)
 - Fixed issue with the private browser icon shifting the window control out of place
 - Minor UI tweaks to Tree Style Tab css to my preference
 
-## Orignal Desc
+## Original Desc
 Some simple css to seamlessly integrate [tree style tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) into firefox. 
 These tweaks were inspired by [flyingfox](https://github.com/akshat46/FlyingFox) which sadly is no longer active.
 
