@@ -72,3 +72,11 @@ tab-item:hover tab-closebox {
 .newtab-action-selector-anchor {
 	margin: 0 10px 10px 0;
 }
+
+.tab{
+	background-color: rgba(127,127,127,0.3); 
+}
+
+.tab[data-level="0"]{
+	border-top: 2px solid rgba(255, 255, 255, 0.2); 
+}
